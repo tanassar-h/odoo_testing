@@ -7,7 +7,7 @@
     'version':'0.1',
     'author': 'Triplek Tech',
     'website': 'https://triplek.tech',
-    'description':'Triplek Tech Odoo Testing',
+    'description':'Triplek Tech Odoo Testing 1.0',
     'category':'Human Resources',
     'license':'LGPL-3',
     'summary':'For Testing Purpose',
@@ -19,7 +19,7 @@
     
     'images':['https://www.triplek.tech/assets/logos/lo.svg','https://www.triplek.tech/assets/logos/lo.svg'],
     'icon': 'https://www.triplek.tech/assets/logos/lo.svg',
-#     'web_icon': ['https://www.triplek.tech/assets/logos/lo.svg'],
+    'web_icon': 'https://www.triplek.tech/assets/logos/lo.svg',
     'installable': True,
     'application': True,
     'auto_install':False,
