@@ -8,8 +8,9 @@
     'author': 'Triplek Tech',
     'website': 'https://triplek.tech',
     'description':"""
+    <b>
     Triplek Tech Odoo Testing 1.0
-    <b>version</b>
+    version</b>
     """
     ,
     'category':'Human Resources',
