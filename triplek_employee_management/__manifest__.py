@@ -7,7 +7,7 @@
     'version':'0.1',
     'author': 'Triplek Tech',
     'website': 'https://triplek.tech',
-    'description':'Triplek Odoo Testing',
+    'description':'Triplek Tech Odoo Testing',
     'category':'Human Resources',
     'License':'LGPL-3',
     'summary':'For Testing Purpose',
