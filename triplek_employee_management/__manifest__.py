@@ -4,13 +4,14 @@
 
 {
     'name': 'Triplek Employee Management',
-    'version':'0.1',
-    'author': 'Triplek Tech',
-    'website': 'https://triplek.tech',
-   'description': """ 
+     'description': """ 
    <h2>Heading 2</h2> 
    """
     ,
+    'version':'0.1',
+    'author': 'Triplek Tech',
+    'website': 'https://triplek.tech',
+  
    'category':'Human Resources',
     'license':'LGPL-3',
     'summary':'For Testing Purpose',
@@ -20,7 +21,7 @@
         'views/triplek_view.xml'
     ],
     
-#     'images':'https://www.triplek.tech/assets/logos/lo.svg',
+    'images':'https://www.triplek.tech/assets/logos/lo.svg',
     'icon': 'https://www.triplek.tech/assets/logos/lo.svg',
     'web_icon': 'https://www.triplek.tech/assets/logos/lo.svg',
     'installable': True,
