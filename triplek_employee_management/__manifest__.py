@@ -7,11 +7,7 @@
     'version':'0.1',
     'author': 'Triplek Tech',
     'website': 'https://triplek.tech',
-    'description':"""
-    <b>
-    Triplek Tech Odoo Testing 1.0
-    version</b>
-    """
+   'description': """ <p>This is a detailed description of my module.</p> <p>It includes <b>bold</b> text, <i>italic</i> text, and <u>underlined</u> text.</p> <p>It also includes <a href="http://example.com">links</a> and headings:</p> <h1>Heading 1</h1> <h2>Heading 2</h2> """
     ,
     'category':'Human Resources',
     'license':'LGPL-3',
