@@ -18,8 +18,8 @@
     ],
     
     'images':['https://www.triplek.tech/assets/logos/lo.svg','https://www.triplek.tech/assets/logos/lo.svg'],
-    'icon': ['https://www.triplek.tech/assets/logos/lo.svg'],
-    'web_icon': ['https://www.triplek.tech/assets/logos/lo.svg'],
+    'icon': 'https://www.triplek.tech/assets/logos/lo.svg',
+#     'web_icon': ['https://www.triplek.tech/assets/logos/lo.svg'],
     'installable': True,
     'application': True,
     'auto_install':False,
